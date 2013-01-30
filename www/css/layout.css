@@ -1,0 +1,306 @@
+@charset "utf-8";
+
+/* Fontes 
+
+	font-family: "HelveticaNeueW01-ThinCn 673383";
+	font-family: "HelveticaNeueW01-45Ligh";
+	font-family: "HelveticaNeueW01-47LtCn 692686";
+	font-family: "HelveticaNeueW01-57Cn";
+	font-family: "HelveticaNeueW01-67MdCn 692710";
+
+	Backup
+		
+		font-family: "HelveticaNeueW01-XBlkCn 710276";
+		font-family: "HelveticaNeueW01-XBlkCn 710279";
+		font-family: "HelveticaNeueW01-UltLtE 710282";
+		font-family: "HelveticaNeueW01-UltLtE 710285";
+		font-family: "HelveticaNeueW01-UltLt";
+		font-family: "HelveticaNeueW01-UltLtI";
+		font-family: "HelveticaNeueW01-UltLtC 673371";
+		font-family: "HelveticaNeueW01-UltLtC 673374";
+		font-family: "HelveticaNeueW01-ThinEx 710288";
+		font-family: "HelveticaNeueW01-ThinEx 710291";
+		font-family: "HelveticaNeueW01-Thin";
+		font-family: "HelveticaNeueW01-ThinIt";
+		font-family: "HelveticaNeueW01-ThinCn 673383";
+		font-family: "HelveticaNeueW01-ThinCn 673386";
+		font-family: "HelveticaNeueW01-LtExt";
+		font-family: "HelveticaNeueW01-LtExtO";
+		font-family: "HelveticaNeueW01-45Ligh";
+		font-family: "HelveticaNeueW01-46Ligh";
+		font-family: "HelveticaNeueW01-47LtCn 692689";
+		font-family: "HelveticaNeueW01 53 Ext";
+		font-family: "HelveticaNeueW01-ExtObl";
+		font-family: "HelveticaNeueW01-55Roma";
+		font-family: "HelveticaNeueW01-56It";
+		font-family: "HelveticaNeueW01-57Cn";
+		font-family: "HelveticaNeueW01-57CnOb";
+		font-family: "HelveticaNeueW01-MdExt";
+		font-family: "HelveticaNeueW01-MdExtO";
+		font-family: "HelveticaNeueW01-65Medi";
+		font-family: "HelveticaNeueW01-66Medi";
+		font-family: "HelveticaNeueW01-67MdCn 692713";
+		font-family: "HelveticaNeueW01-BdExt";
+		font-family: "HelveticaNeueW01-BdExtO";
+		font-family: "HelveticaNeueW01-75Bold";
+		font-family: "HelveticaNeueW01-BdOutl";
+		font-family: "HelveticaNeueW01-76Bold";
+		font-family: "HelveticaNeueW01-77BdCn 692722";
+		font-family: "HelveticaNeueW01-77BdCn 692725";
+		font-family: "HelveticaNeueW01-HvExt";
+		font-family: "HelveticaNeueW01-HvExtO";
+		font-family: "HelveticaNeueW01-85Heav";
+		font-family: "HelveticaNeueW01-86Heav";
+		font-family: "HelveticaNeueW01-87HvCn 692734";
+		font-family: "HelveticaNeueW01-87HvCn 692737";
+		font-family: "HelveticaNeueW01-BlkExt 710327";
+		font-family: "HelveticaNeueW01-BlkExt 710330";
+		font-family: "HelveticaNeueW01-95Blac";
+		font-family: "HelveticaNeueW01-BlackI";
+		font-family: "HelveticaNeueW01-97Blac";
+		font-family: "HelveticaNeueW01-BlackC";
+*/
+
+html {
+	background-color: #e4e5e7;
+	background-image: url("../imgs/layout/fundo.jpg");
+	background-position: 50% 0;
+	font-family: "HelveticaNeueW01-45Ligh", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	text-shadow: 1px 1px 0 #fff;
+}
+	body {
+		background-image: url("../imgs/layout/fundo-do-cabecalho.jpg");
+		background-position: 50% 0;
+		background-repeat: repeat-x;
+		background-color: transparent;
+		margin: 0;
+		min-width: 1218px;
+		position: relative;
+	}
+		a {
+			color: #634545;
+		}
+		address {
+			font-style: normal;
+		}
+		figure {
+			margin: 0;
+		}
+		/* Títulos */
+			h1 {
+				color: #a6a8ab;
+				font-family: "HelveticaNeueW01-ThinCn 673383";
+				font-size: 40px;
+				font-weight: normal;
+				margin-top: 30px;
+				margin-bottom: 30px;
+			}
+		/* Layout */
+			header {
+				background-image: url("../imgs/layout/foto-do-cabecalho.png");
+				background-position: 100% 0;
+				background-repeat: no-repeat;
+				height: 383px;
+				margin-right: auto;
+				margin-left: auto;
+				width: 1218px;
+			}
+				#admin {
+					position: absolute;
+					right: 36px;
+					top: 34px;
+				}
+				#citacao {
+					float: left;
+					left: 50%;
+					margin-left: -270px;
+					position: relative;
+					top: 90px;
+				}
+				#logo {
+					display: inline-block;
+					float: left;
+					left: 50%;
+					margin-left: -537px;
+					position: relative;
+					top: 125px;
+
+				}
+				h1#logo {
+					margin-top: 0;
+					margin-bottom: 0;
+				}
+				#menu {
+					background-image: url("../imgs/layout/fundo-do-menu.png");
+					background-position: 50% 0;
+					background-repeat: repeat-x;
+					float: left;
+					font-family: "HelveticaNeueW01-57Cn";
+					font-size: 0;
+					height: 82px;
+					left: 0;
+					line-height: 48px;
+					list-style: none;
+					padding-top: 2px;
+					position: absolute;
+					text-transform: uppercase;
+					top: 299px;
+					width: 100%;
+				}
+					#menu > ul {
+						left: 50%;
+						margin-top: 0;
+						margin-bottom: 0;
+						margin-left: -553px;
+						padding-left: 0;
+						position: relative;
+						width: 1062px;
+					}
+						#menu > ul > li {
+							display: inline-block;
+							font-size: 20px;
+							margin-right: -8px;
+							margin-left: -7px;
+							padding-right: 30px;
+							padding-left: 30px;
+							text-align: center;
+							vertical-align: top;
+						}
+							#menu, 
+							#menu a {
+								color: #634545;
+							}
+							#menu a:focus,
+							#menu a:hover,
+							#menu > ul > li:focus > a, 
+							#menu > ul > li:hover > a {
+								color: #f4811f;
+							}
+							#menu a {
+								text-decoration: none;
+							}
+						#menu > ul > li:focus, 
+						#menu > ul > li:hover {
+							background-color: #dfe1e2;
+						}
+						#menu > ul > li:focus ul,
+						#menu > ul > li:hover ul {
+							background-image: url("../imgs/layout/seta-do-menu-hover.png");
+							box-shadow: 0 2px 3px #babcbe;
+							height: auto;
+							padding-bottom: 18px;
+					}
+							#menu > ul > li ul {
+								background-image: url("../imgs/layout/seta-do-menu.png");
+								background-position: 50% 41px;
+								background-repeat: no-repeat;
+								border-bottom-right-radius: 10px;
+								border-bottom-left-radius: 10px;
+								font-family: "HelveticaNeueW01-67MdCn 692710";
+								font-size: 16px;
+								height: 0;
+								line-height: 25px;
+								margin: -48px -30px 0;
+								overflow: hidden;
+								padding-top: 54px;
+								padding-bottom: 0;
+								padding-left: 0;
+							}
+							#menu > ul > li li {
+								display: block;
+							}
+				#encontre-seu-imovel {
+					display:  none;
+				}
+			article {
+				margin-right: auto;
+				margin-left: auto;
+				width: 1062px;
+			}
+			footer {
+				background-color: #fafafa;
+				background-image: url("../imgs/layout/fundo-do-rodape.jpg");
+				background-position: 50% 0;
+				/*
+				Versão 2:;
+				background-image: url("../imgs/layout/fundo-do-rodape.png");
+				*/
+				border-top: 1px solid #caccce;
+				box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.05);
+				font-family: "HelveticaNeueW01-47LtCn 692686";
+				line-height: 21px;
+				margin-top: 80px;
+				padding-top: 20px;
+				padding-bottom: 28px;
+				position: relative;
+			}
+			footer,
+			footer a {
+				color: #a6a8ab;
+			}
+				footer address {
+					margin-right: auto;
+					margin-left: auto;
+					padding-left: 78px;
+					width: 1140px;
+				}
+					footer br {
+						display: none;
+					}
+					#atendimento {
+						background-image: url("../imgs/layout/abre-chaves.png");
+						background-position: 100% 50%;
+						background-repeat: no-repeat;
+						display: inline-block;
+						min-height: 49px;
+						padding-top: 7px;
+						padding-right: 30px;
+						padding-left: 48px;
+						text-align: right;
+						width: 78px;
+					}
+					#telefone-e-e-mail {
+						background-image: url("../imgs/layout/fecha-chaves.png");
+						background-position: 204px 50%;
+						background-repeat: no-repeat;
+						color: #f58220;
+						display: inline-block;
+						font-size: 16px;
+						min-height: 49px;
+						padding-top: 7px;
+						padding-right: 30px;
+						text-align: center;
+						width: 204px;
+					}
+						#telefone-e-e-mail strong {
+							font-family: "HelveticaNeueW01-67MdCn 692710";
+							font-size: 24px;
+							font-weight: normal;
+						}
+						#telefone-e-e-mail a {
+							color: #000;
+							font-family: "HelveticaNeueW01-45Ligh";
+							font-size: 14px;
+						}
+					#endereco {
+						background-image: url("../imgs/layout/icone-do-google-maps.png");
+						background-position: 16px 50%;
+						background-repeat: no-repeat;
+						display: inline-block;
+						margin-right: 15px;
+						padding-left: 48px;
+						width: 186px;
+					}
+						#endereco br {
+							display: inline;
+						}
+					#logo-do-rodape {
+						margin-right: 15px;
+						margin-left: 15px;
+					}
+		/* Retirando o Web Fonts By fonts.com */
+			#mti_wfs_colophon {
+				display: none !important;
+			}

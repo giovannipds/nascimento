@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+.imoveis {
+	list-style: none;
+	overflow: hidden;
+	margin: -15px;
+	padding-left: 0;
+}
+	.imoveis li {
+		float: left;
+		margin: 15px;
+		width: 243px;
+	}
+		.imoveis a {
+			display: block;
+			overflow: hidden;
+			text-decoration: none;
+		}
+		.imoveis a:focus,
+		.imoveis a:hover {
+			background-color: #fff;
+			border-radius: 15px 15px 5px 5px;
+			box-shadow: 0 1px 3px #babcbe;
+			margin: -15px;
+			padding: 15px;
+		}
+			.imoveis img {
+				border-radius: 5px;
+				box-shadow: 0 1px 3px #babcbe;
+			}
+			.imoveis br {
+				display: none;
+			}
+			.imoveis strong {
+				color: #634545;
+				display: block;
+				font-family: "HelveticaNeueW01-67MdCn 692710";
+				font-size: 24px;
+				font-weight: normal;
+				margin-top: 10px;
+			}
+			.imoveis em {
+				color: #000;
+				display: block;
+				font-family: "HelveticaNeueW01-67MdCn 692710";
+				font-size: 17px;
+				font-style: normal;
+				margin-bottom: 10px;
+			}
+			.imoveis span {
+				display: inline-block;
+			}
+			.imoveis small {
+				color: #a6a8ab;
+				display: block;
+				font-size: 14px;
+				margin-top: 10px;
+			}
+			.imoveis .preco {
+				float: right;
+				font-size: 20px;
+				margin-top: -24px;
+			}
+			.imoveis .preco span {
+				background-image: url("../imgs/layout/etiqueta.png");
+				display: inline-block;
+				float: left;
+				height: 29px;
+				margin-top: -3px;
+				margin-right: -5px;
+				overflow: hidden;
+				text-indent: -99999px;
+				width: 34px;
+			}

@@ -1,0 +1,788 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysql",
+				"mysql_result"
+			],
+			[
+				"mb",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"nome",
+				"nome_completo"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"id",
+				"id_bentoimoveis"
+			],
+			[
+				"ar",
+				"array	$… = array (…)"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"mysqlnu",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_db",
+				"mysql_select_db"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mi",
+				"mih	min-height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"br",
+				"background-repeat"
+			],
+			[
+				"bi",
+				"background-image"
+			],
+			[
+				"ml",
+				"ml	margin-left"
+			],
+			[
+				"pl",
+				"pl	padding-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"border-ra",
+				"border-bottom-right-radius"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pr",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/admin/usuarios/editar.php",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "models/usuario.php",
+			"settings":
+			{
+				"buffer_size": 1803,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/simplavi.com.br/application/site/controllers/EventosController.php",
+			"settings":
+			{
+				"buffer_size": 682,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/simplavi.com.br/application/site/controllers/AbstractController.php",
+			"settings":
+			{
+				"buffer_size": 798,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/simplavi.com.br/application/DAO/EventoDAO.php",
+			"settings":
+			{
+				"buffer_size": 3487,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/simplavi.com.br/application/DAO/AbstractDAO.php",
+			"settings":
+			{
+				"buffer_size": 471,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/simplavi.com.br/application/models/Item.class.php",
+			"settings":
+			{
+				"buffer_size": 844,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/GitHub/simplavi.com.br/application/models/Usuario.class.php",
+			"settings":
+			{
+				"buffer_size": 934,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/GitHub/simplavi.com.br/application/site/controllers/IndexController.php",
+		"/D/GitHub/simplavi.com.br/application/site/controllers/ContatoController.php",
+		"/D/GitHub/simplavi.com.br/application/models/Arquivo.class.php",
+		"/D/GitHub/simplavi.com.br/application/models/Evento.class.php",
+		"/D/GitHub/simplavi.com.br/application/DAO/EventoDAO.php",
+		"/D/GitHub/gitblog-cpbr6/source/_posts/2013-01-29-teste-realizado-na-campus-party.markdown",
+		"/D/GitHub/nascimento.imb.br/models/database.php",
+		"/D/GitHub/nascimento.imb.br/models/imoveis.php",
+		"/D/GitHub/nascimento.imb.br/models/usuarios.php",
+		"/D/GitHub/nascimento.imb.br/models/usuario.php",
+		"/D/GitHub/nascimento.imb.br/controllers/admin/usuarios/inserir.php",
+		"/D/GitHub/nascimento.imb.br/controllers/admin/imoveis.php",
+		"/D/GitHub/nascimento.imb.br/controllers/admin/usuarios.php",
+		"/D/GitHub/nascimento.imb.br/controllers/site/imoveis-para-alugar.php",
+		"/D/GitHub/nascimento.imb.br/controllers/site/imoveis-a-venda.php",
+		"/D/GitHub/nascimento.imb.br/controllers/site/home.php",
+		"/D/GitHub/nascimento.imb.br/models/uteis.php",
+		"/D/GitHub/nascimento.imb.br/smarty/templates_c/30ff9e04b2de6f584fd3f311bfc149a3d275f2d4.file.fale-conosco.tpl.php",
+		"/D/GitHub/nascimento.imb.br/views/site/home.tpl",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/GitHub/nascimento.imb.br/views/site/layout.tpl",
+		"/D/GitHub/nascimento.imb.br/views/admin/home.tpl",
+		"/D/GitHub/nascimento.imb.br/www/index.php",
+		"/D/GitHub/nascimento.imb.br/views/admin/layout.tpl",
+		"/D/GitHub/simplavi.com.br/library/Default/DbMySQL.php",
+		"/D/GitHub/simplavi.com.br/library/Default/Application.php",
+		"/D/GitHub/simplavi.com.br/library/Default/Config.php",
+		"/D/GitHub/nascimento.imb.br/index.php",
+		"/D/GitHub/nascimento.imb.br/models/website.php",
+		"/D/GitHub/nascimento.imb.br/controllers/site/layout.php",
+		"/D/GitHub/simplavi.com.br/www/index.php",
+		"/D/GitHub/nascimento.imb.br/models/banco.php",
+		"/D/GitHub/nascimento.imb.br/models/imovel.php",
+		"/D/GitHub/nascimento.imb.br/views/admin/usuarios.tpl",
+		"/D/GitHub/nascimento.imb.br/smarty/Smarty.class.php",
+		"/D/GitHub/simplavi.com.br/library/Default/Registry.php",
+		"/D/GitHub/simplavi.com.br/library/Default/AbstractAutoloader.php",
+		"/D/GitHub/simplavi.com.br/library/Default/SiteAutoloader.php",
+		"/D/GitHub/nascimento.imb.br/controllers/admin/usuarios/editar.php",
+		"/D/GitHub/nascimento.imb.br/views/admin/usuarios/editar.tpl",
+		"/D/GitHub/nascimento.imb.br/controllers/admin/home.php",
+		"/D/GitHub/nascimento.imb.br/views/admin/imoveis/inserir.tpl",
+		"/D/GitHub/nascimento.imb.br/www/.htaccess",
+		"/D/GitHub/giovannipds.com.br/www/.htaccess",
+		"/D/GitHub/giovannipds.com.br/www/bagunca/.htaccess2",
+		"/D/GitHub/simplavi.com.br/www/.htaccess",
+		"/D/Dropbox/Área de Trabalho/mamae.php",
+		"/D/GitHub/nascimento.imb.br/views/erros/404.tpl",
+		"/D/GitHub/nascimento.imb.br/views/site/a-imobiliaria.tpl",
+		"/D/GitHub/nascimento.imb.br/views/site/imoveis-a-venda.tpl",
+		"/D/GitHub/nascimento.imb.br/views/site/imoveis-para-alugar.tpl",
+		"/D/GitHub/giovannipds.com.br/index.html",
+		"/D/GitHub/nascimento.imb.br/views/site/fale-conosco.tpl",
+		"/D/GitHub/nascimento.imb.br/controllers/admin/corretores.php",
+		"/D/GitHub/nascimento.imb.br/views/admin/usuarios/inserir.tpl",
+		"/D/GitHub/nascimento.imb.br/controllers/admin/sair.php",
+		"/D/GitHub/nascimento.imb.br/views/admin/corretores.tpl",
+		"/D/GitHub/nascimento.imb.br/views/admin/imoveis.tpl",
+		"/D/GitHub/nascimento.imb.br/controllers/admin/layout.php",
+		"/D/GitHub/simplavi.com.br/application/DAO/UsuarioDAO.php",
+		"/D/GitHub/simplavi.com.br/application/admin/views/LayoutView.tpl",
+		"/D/GitHub/simplavi.com.br/application/admin/views/LoginView.tpl",
+		"/D/GitHub/simplavi.com.br/application/admin/views/AssociadosFormView.tpl",
+		"/D/GitHub/simplavi.com.br/library/Default/View.php",
+		"/D/GitHub/simplavi.com.br/library/Default/Util.php",
+		"/D/GitHub/simplavi.com.br/library/Default/Validation.php",
+		"/D/GitHub/simplavi.com.br/library/Default/Upload.php",
+		"/D/GitHub/simplavi.com.br/library/Default/Security.php",
+		"/D/GitHub/simplavi.com.br/library/Default/Response.php",
+		"/D/GitHub/simplavi.com.br/library/Default/Request.php",
+		"/D/GitHub/simplavi.com.br/library/Default/Greeting.php",
+		"/D/GitHub/simplavi.com.br/library/Default/DbMySQLi.php",
+		"/D/GitHub/simplavi.com.br/application/DAO/ArquivoDAO.php",
+		"/D/GitHub/simplavi.com.br/application/DAO/AbstractDAO.php",
+		"/D/GitHub/simplavi.com.br/application/models/Usuario.class.php",
+		"/D/GitHub/simplavi.com.br/www/admin/index.php",
+		"/D/GitHub/nascimento.imb.br/www/css/imoveis.css",
+		"/D/GitHub/nascimento.imb.br/www/css/imoveis-a-venda.css",
+		"/D/Dropbox/Downloads/Para Desenvolvedores/ICO (Windows Icon) Format 2.1b1-win64/dist/README.html",
+		"/D/GitHub/nascimento.imb.br/www/css/admin/layout.css",
+		"/D/GitHub/nascimento.imb.br/views/layout.tpl",
+		"/D/GitHub/nascimento.imb.br/www/css/layout.css",
+		"/D/GitHub/nascimento.imb.br/controllers/imoveis-a-venda.php",
+		"/D/GitHub/nascimento.imb.br/www/erros/404.html",
+		"/D/GitHub/nascimento.imb.br/views/home.tpl",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/D/GitHub/nascimento.imb.br/views/a-imobiliaria.tpl",
+		"/D/GitHub/nascimento.imb.br/views/fale-conosco.tpl",
+		"/D/GitHub/nascimento.imb.br/views/imoveis-a-venda.tpl",
+		"/D/GitHub/nascimento.imb.br/views/imoveis-para-alugar.tpl",
+		"/D/GitHub/quintopeccato.com.br/www/.htaccess",
+		"/D/GitHub/quintopeccato.com.br/www/historico.php",
+		"/D/GitHub/quintopeccato.com.br/www/cabecalho.inc.php",
+		"/D/GitHub/quintopeccato.com.br/www/capa.php",
+		"/D/GitHub/quintopeccato.com.br/www/localizacao.php",
+		"/D/GitHub/quintopeccato.com.br/www/cardapio.php",
+		"/D/GitHub/quintopeccato.com.br/www/js/contato.js",
+		"/D/GitHub/quintopeccato.com.br/www/contato.php",
+		"/D/GitHub/quintopeccato.com.br/www/rodape.inc.php",
+		"/D/GitHub/quintopeccato.com.br/www/analyticstracking.inc.php",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/HTML/HTML.tmLanguage",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/HTML/Comments.tmPreferences",
+		"/D/GitHub/nascimento.imb.br/www/fontes/helveticaneueltstd-lt.html",
+		"/D/GitHub/nascimento.imb.br/www/fontes/demo.html",
+		"/D/GitHub/nascimento.imb.br/www/fontes/fonts.css",
+		"/D/GitHub/nascimento.imb.br/www/css/fale-conosco.css",
+		"/D/GitHub/nascimento.imb.br/www/css/home.css",
+		"/D/GitHub/nascimento.imb.br/www/css/imoveis-para-alugar.css",
+		"/D/GitHub/nascimento.imb.br/www/css/a-imobiliaria.css",
+		"/D/GitHub/nascimento.imb.br/www/em-construcao/css/layout.css",
+		"/D/GitHub/nascimento.imb.br/Nascimento Imóveis.sublime-project",
+		"/D/GitHub/nascimento.imb.br/views/index.html",
+		"/D/GitHub/nascimento.imb.br/www/index.html",
+		"/D/GitHub/Smarty-3.1.12/demo/configs/test.conf",
+		"/D/Dropbox/FileZilla/filters.xml",
+		"/D/Dropbox/FileZilla/bookmarks.xml",
+		"/D/Dropbox/Área de Trabalho/fzdefaults.xml"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table",
+			"wrap",
+			"senha",
+			"usuario",
+			"servidor",
+			"nome",
+			"smarty",
+			"$banco->$prefix",
+			"usuarios",
+			"imoveis",
+			"Imoveis",
+			"imoveis",
+			"Imoveis",
+			"imoveis",
+			"usuario",
+			"models",
+			"require_once",
+			"php",
+			"		echo $controllersDir.implode('/', $urlTemp);\n		echo '<br>';\n",
+			"<?php\n	// smarty para KingHost\n	ini_set('zend.ze1_compatibility_mode', 0);\n	\n	// volta pra raiz\n	$dir = '../';\n	// diretório do smarty\n	$smartyDir = $dir.'smarty/';\n	// diretório dos controllers\n	$controllersDir = $dir.'controllers/';\n	// diretório das views\n	$viewsDir = $dir.'views/';\n\n	// solicita a classe principal\n	require_once($smartyDir.'Smarty.class.php');\n	// inicia o smarty\n	$smarty = new Smarty;\n	// seta cache etc.\n	$smarty->setConfigDir($smartyDir.'configs')\n			->setCompileDir($smartyDir.'templates_c')\n			->setCacheDir($smartyDir.'cache');\n	$smarty->compile_check = false;\n	$smarty->caching = 1;\n	$smarty->cache_lifetime = 86400;\n\n	// define a base principal do site\n	$base = 'http://www.nascimento.imb.br/';\n\n	// pega a url em array\n	$url = explode('/', $_SERVER['REQUEST_URI']);\n\n	// verifica se é localhost, se sim, altera a base e o array das urls\n	if ($_SERVER['HTTP_HOST'] == 'localhost') {\n		$base = 'http://localhost/nascimento/';\n		$url = array_slice($url, 2);\n		$smarty->caching = 0;\n		$smarty->force_compile = true;\n	}\n\n	// verifica se é o admin, se sim, altera o array das urls e a diretório dos views\n	if ($url[0] == 'admin') {\n		$base .= 'admin/';\n		if (!isset($url[1])) {\n			header('HTTP/1.1 404 Not Found');\n			header('Location: '.$base);\n			exit();\n		}\n		$url = array_slice($url, 1);\n		$controllersDir .= 'admin/';\n		$viewsDir .= 'admin/';\n	} else {\n		$controllersDir .= 'site/';\n		$viewsDir .= 'site/';\n	}\n\n	// seta o diretório das views\n	$smarty->setTemplateDir($viewsDir);\n\n	// verifica se é a home ou não\n	if ($url[0] == '') {\n		$pagina = 'home';\n	} else {\n		$pagina = $url;\n	}\n\n	$urlTemp = $url;\n	while (count($urlTemp) != 1 && !file_exists($controllersDir.implode('/', $urlTemp)) && !file_exists($viewsDir.implode('/', $urlTemp))) {\n		echo '<br>-----------';\n		echo '<br>count = '.count($urlTemp);\n		print_r($urlTemp);\n		echo '<br>';\n		echo $controllersDir.implode('/', $urlTemp);\n		echo '<br>';\n		echo implode('/', $urlTemp);\n		array_pop($urlTemp);\n	}\n\n	echo '<br>-----------';\n	//$pagina = $pagina[count($pagina) - 1];\n	$pagina = array_pop($urlTemp);\n	echo '<br>pagina final = '.$pagina;\n	if (count($urlTemp)) {\n		$urlTemp = implode('/', $urlTemp);\n		$controllersDir = $urlTemp;\n		$viewsDir = $urlTemp;\n	}\n	echo '<br>controller final = '.$controllersDir.$pagina;\n	echo '<br>view final = '.$viewsDir.$pagina;\n	exit();\n\n	// define o controller\n	$controller = $pagina.'.php';\n	// define a view\n	$view = $pagina.'.tpl';\n\n	// seta a url para os views\n	$smarty->assign('url', $url);\n\n	// seta a base para os views\n	$smarty->assign('base', $base);\n\n	$hasController = file_exists($controllersDir.$controller);\n	$hasView = file_exists($viewsDir.$view);\n\n	require_once($controllersDir.'layout.php');\n\n	if (!$hasController && !$hasView) {\n		header('HTTP/1.1 301 Moved Permanently');\n		$smarty->display('../erros/404.tpl');\n	}\n	if ($hasController) {\n		require_once($controllersDir.$controller);\n	}\n	if ($hasView) {\n		$smarty->display($view);\n	}\n?>",
+			"<?php\n	// smarty para KingHost\n	ini_set('zend.ze1_compatibility_mode', 0);\n	\n	// volta pra raiz\n	$dir = '../';\n	// diretório do smarty\n	$smartyDir = $dir.'smarty/';\n	// diretório dos controllers\n	$controllersDir = $dir.'controllers/';\n	// diretório das views\n	$viewsDir = $dir.'views/';\n\n	// solicita a classe principal\n	require_once($smartyDir.'Smarty.class.php');\n	// inicia o smarty\n	$smarty = new Smarty;\n	// seta cache etc.\n	$smarty->setConfigDir($smartyDir.'configs')\n			->setCompileDir($smartyDir.'templates_c')\n			->setCacheDir($smartyDir.'cache');\n	$smarty->compile_check = false;\n	$smarty->caching = 1;\n	$smarty->cache_lifetime = 86400;\n\n	// define a base principal do site\n	$base = 'http://www.nascimento.imb.br/';\n\n	// pega a url em array\n	$url = explode('/', $_SERVER['REQUEST_URI']);\n\n	// verifica se é localhost, se sim, altera a base e o array das urls\n	if ($_SERVER['HTTP_HOST'] == 'localhost') {\n		$base = 'http://localhost/nascimento/';\n		$url = array_slice($url, 2);\n		$smarty->caching = 0;\n		$smarty->force_compile = true;\n	}\n\n	// verifica se é o admin, se sim, altera o array das urls e a diretório dos views\n	if ($url[0] == 'admin') {\n		$base .= 'admin/';\n		if (!isset($url[1])) {\n			header('HTTP/1.1 404 Not Found');\n			header('Location: '.$base);\n			exit();\n		}\n		$url = array_slice($url, 1);\n		$controllersDir .= 'admin/';\n		$viewsDir .= 'admin/';\n	} else {\n		$controllersDir .= 'site/';\n		$viewsDir .= 'site/';\n	}\n\n	// seta o diretório das views\n	$smarty->setTemplateDir($viewsDir);\n\n	// verifica se é a home ou não\n	if ($url[0] == '') {\n		$pagina = 'home';\n	} else {\n		$pagina = $url;\n	}\n\n	$urlTemp = $url;\n	while (count($urlTemp) != 1 && !file_exists($controllersDir.implode('/', $urlTemp)) && !file_exists($viewsDir.implode('/', $urlTemp))) {\n		echo '<br>-----------';\n		echo '<br>count = '.count($urlTemp);\n		print_r($urlTemp);\n		echo '<br>';\n		echo '<br> '$controllersDir.implode('/', $urlTemp);\n		echo '<br>';\n		echo implode('/', $urlTemp);\n		array_pop($urlTemp);\n	}\n\n	echo '<br>-----------';\n	//$pagina = $pagina[count($pagina) - 1];\n	$pagina = array_pop($urlTemp);\n	echo '<br>pagina final = '.$pagina;\n	if (count($urlTemp)) {\n		$urlTemp = implode('/', $urlTemp);\n		$controllersDir = $urlTemp;\n		$viewsDir = $urlTemp;\n	}\n	echo '<br>controller final = '.$controllersDir.$pagina;\n	echo '<br>view final = '.$viewsDir.$pagina;\n	exit();\n\n	// define o controller\n	$controller = $pagina.'.php';\n	// define a view\n	$view = $pagina.'.tpl';\n\n	// seta a url para os views\n	$smarty->assign('url', $url);\n\n	// seta a base para os views\n	$smarty->assign('base', $base);\n\n	$hasController = file_exists($controllersDir.$controller);\n	$hasView = file_exists($viewsDir.$view);\n\n	require_once($controllersDir.'layout.php');\n\n	if (!$hasController && !$hasView) {\n		header('HTTP/1.1 301 Moved Permanently');\n		$smarty->display('../erros/404.tpl');\n	}\n	if ($hasController) {\n		require_once($controllersDir.$controller);\n	}\n	if ($hasView) {\n		$smarty->display($view);\n	}\n?>",
+			"br",
+			"$this",
+			"mysqli",
+			"mysqli_",
+			";\n",
+			"smartyFolder",
+			"'",
+			"\"",
+			"font-family:'",
+			"toggle",
+			"comment",
+			">\n",
+			"Propriedades",
+			"propriedades",
+			"Propriedades",
+			"propriedades",
+			"Terrenos",
+			"terrenos",
+			"Terrenos",
+			"terrenos",
+			"Terrenos",
+			">\n",
+			";\n",
+			"{\n",
+			"site",
+			"\"",
+			"contato",
+			"cardapio",
+			"status",
+			" />",
+			"<br />",
+			"br /"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"password",
+			"user",
+			"server",
+			"name",
+			"$banco->prefix",
+			"this",
+			"mysql",
+			"smartyDir",
+			"\"",
+			"'",
+			"font-family: '",
+			"'",
+			"<?=$slug?>",
+			"'.$slug.'",
+			">",
+			"<br>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/admin/usuarios/editar.php",
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "models/usuario.php",
+					"settings":
+					{
+						"buffer_size": 1803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1803,
+								1803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/GitHub/simplavi.com.br/application/site/controllers/EventosController.php",
+					"settings":
+					{
+						"buffer_size": 682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								682,
+								682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/GitHub/simplavi.com.br/application/site/controllers/AbstractController.php",
+					"settings":
+					{
+						"buffer_size": 798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/GitHub/simplavi.com.br/application/DAO/EventoDAO.php",
+					"settings":
+					{
+						"buffer_size": 3487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2573,
+								2573
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/GitHub/simplavi.com.br/application/DAO/AbstractDAO.php",
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/GitHub/simplavi.com.br/application/models/Item.class.php",
+					"settings":
+					{
+						"buffer_size": 844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/GitHub/simplavi.com.br/application/models/Usuario.class.php",
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"banco.php",
+				"smarty/templates_c/30ff9e04b2de6f584fd3f311bfc149a3d275f2d4.file.fale-conosco.tpl.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/GitHub/nascimento.imb.br/Nascimento Imóveis.sublime-project"
+			]
+		],
+		"width": 492.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true
+}

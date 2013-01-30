@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blo",
+				"block"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"br",
+				"BR	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/layout.tpl",
+			"settings":
+			{
+				"buffer_size": 3661,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/css/layout.css",
+			"settings":
+			{
+				"buffer_size": 3698,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/GitHub/nascimento.imb.br/www/.htaccess",
+		"/D/GitHub/nascimento.imb.br/www/css/layout.css",
+		"/D/GitHub/nascimento.imb.br/www/index.php",
+		"/D/GitHub/nascimento.imb.br/views/a-imobiliaria.tpl",
+		"/D/GitHub/nascimento.imb.br/views/fale-conosco.tpl",
+		"/D/GitHub/nascimento.imb.br/views/home.tpl",
+		"/D/GitHub/nascimento.imb.br/views/imoveis-a-venda.tpl",
+		"/D/GitHub/nascimento.imb.br/views/imoveis-para-alugar.tpl",
+		"/D/GitHub/nascimento.imb.br/views/layout.tpl",
+		"/D/GitHub/quintopeccato.com.br/www/.htaccess",
+		"/D/GitHub/quintopeccato.com.br/www/historico.php",
+		"/D/GitHub/quintopeccato.com.br/www/cabecalho.inc.php",
+		"/D/GitHub/quintopeccato.com.br/www/capa.php",
+		"/D/GitHub/quintopeccato.com.br/www/localizacao.php",
+		"/D/GitHub/quintopeccato.com.br/www/cardapio.php",
+		"/D/GitHub/quintopeccato.com.br/www/js/contato.js",
+		"/D/GitHub/quintopeccato.com.br/www/contato.php",
+		"/D/GitHub/quintopeccato.com.br/www/rodape.inc.php",
+		"/D/GitHub/quintopeccato.com.br/www/analyticstracking.inc.php",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/HTML/HTML.tmLanguage",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/HTML/Comments.tmPreferences",
+		"/D/GitHub/nascimento.imb.br/www/fontes/helveticaneueltstd-lt.html",
+		"/D/GitHub/nascimento.imb.br/www/fontes/demo.html",
+		"/D/GitHub/nascimento.imb.br/www/fontes/fonts.css",
+		"/D/GitHub/nascimento.imb.br/www/css/fale-conosco.css",
+		"/D/GitHub/nascimento.imb.br/www/css/home.css",
+		"/D/GitHub/nascimento.imb.br/www/css/imoveis-a-venda.css",
+		"/D/GitHub/nascimento.imb.br/www/css/imoveis-para-alugar.css",
+		"/D/GitHub/nascimento.imb.br/www/css/a-imobiliaria.css",
+		"/D/GitHub/nascimento.imb.br/www/em-construcao/css/layout.css",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/GitHub/nascimento.imb.br/Nascimento Imóveis.sublime-project",
+		"/D/GitHub/nascimento.imb.br/views/index.html",
+		"/D/GitHub/nascimento.imb.br/www/index.html",
+		"/D/GitHub/Smarty-3.1.12/demo/configs/test.conf",
+		"/D/Dropbox/FileZilla/filters.xml",
+		"/D/Dropbox/FileZilla/bookmarks.xml",
+		"/D/Dropbox/Área de Trabalho/fzdefaults.xml",
+		"/D/GitHub/giovannipds.com.br/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"Propriedades",
+			"propriedades",
+			"Propriedades",
+			"propriedades",
+			"Terrenos",
+			"terrenos",
+			"Terrenos",
+			"terrenos",
+			"Terrenos",
+			">\n",
+			";\n",
+			"{\n",
+			"site",
+			"\"",
+			"contato",
+			"cardapio",
+			"status",
+			" />",
+			"<br />",
+			"br /"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"<?=$slug?>",
+			"'.$slug.'",
+			">",
+			"<br>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/layout.tpl",
+					"settings":
+					{
+						"buffer_size": 3661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								481,
+								481
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/css/layout.css",
+					"settings":
+					{
+						"buffer_size": 3698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3195,
+								3195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1068.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/GitHub/nascimento.imb.br/Nascimento Imóveis.sublime-project"
+			]
+		],
+		"width": 492.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true
+}
