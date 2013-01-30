@@ -171,7 +171,7 @@
 			"file": "www/robots.txt",
 			"settings":
 			{
-				"buffer_size": 60,
+				"buffer_size": 66,
 				"line_ending": "Windows"
 			}
 		}
@@ -183,15 +183,31 @@
 		"selected_items":
 		[
 			[
-				"git push ",
-				"Git: Push Current Branch"
-			],
-			[
 				"git pus",
-				"Git: Push Current Branch"
+				"Git: Push"
 			],
 			[
 				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git com",
+				"Git: Quick Commit"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git push ",
 				"Git: Push Current Branch"
 			],
 			[
@@ -203,20 +219,12 @@
 				"Git: Quick Commit"
 			],
 			[
-				"git com",
-				"Git: Commit"
-			],
-			[
 				"git ",
 				"Git: Open..."
 			],
 			[
 				"git",
 				"Git: Open..."
-			],
-			[
-				"git status",
-				"Git: Status"
 			],
 			[
 				"install",
@@ -530,15 +538,15 @@
 					"file": "www/robots.txt",
 					"settings":
 					{
-						"buffer_size": 60,
+						"buffer_size": 66,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								60,
-								60
+								66,
+								66
 							]
 						],
 						"settings":
@@ -546,7 +554,7 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
