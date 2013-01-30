@@ -168,66 +168,10 @@
 	"buffers":
 	[
 		{
-			"file": "controllers/admin/usuarios/editar.php",
+			"file": "www/robots.txt",
 			"settings":
 			{
-				"buffer_size": 288,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "models/usuario.php",
-			"settings":
-			{
-				"buffer_size": 1803,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/GitHub/simplavi.com.br/application/site/controllers/EventosController.php",
-			"settings":
-			{
-				"buffer_size": 682,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/GitHub/simplavi.com.br/application/site/controllers/AbstractController.php",
-			"settings":
-			{
-				"buffer_size": 798,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/GitHub/simplavi.com.br/application/DAO/EventoDAO.php",
-			"settings":
-			{
-				"buffer_size": 3487,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/GitHub/simplavi.com.br/application/DAO/AbstractDAO.php",
-			"settings":
-			{
-				"buffer_size": 471,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/GitHub/simplavi.com.br/application/models/Item.class.php",
-			"settings":
-			{
-				"buffer_size": 844,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/D/GitHub/simplavi.com.br/application/models/Usuario.class.php",
-			"settings":
-			{
-				"buffer_size": 934,
+				"buffer_size": 60,
 				"line_ending": "Windows"
 			}
 		}
@@ -235,12 +179,84 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 104.0,
 		"selected_items":
 		[
 			[
-				"",
+				"git push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git comi",
+				"Git: Quick Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ",
+				"Git: Open..."
+			],
+			[
+				"git",
+				"Git: Open..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"paco",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"git branch ",
+				"Git: Pull Current Branch"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"github",
+				"Github: Open File"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"Git: Status",
+				"Git: Status"
+			],
+			[
+				"",
+				"Git: Init"
+			],
+			[
+				"Git",
+				"Git: Commit history"
 			],
 			[
 				"pak",
@@ -263,7 +279,7 @@
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 262.0
 	},
 	"distraction_free":
 	{
@@ -276,16 +292,29 @@
 	},
 	"file_history":
 	[
+		"/D/GitHub/nascimento.imb.br/views/site/layout.tpl",
+		"/D/GitHub/nascimento.imb.br/.htaccess",
+		"/D/GitHub/nascimento.imb.br/index.php",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/C/Program Files (x86)/Git/etc/profile",
+		"/D/GitHub/nascimento.imb.br/.sublime-project",
+		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/D/GitHub/simplavi.com.br/application/models/Usuario.class.php",
+		"/D/GitHub/simplavi.com.br/application/models/Item.class.php",
+		"/D/GitHub/simplavi.com.br/application/DAO/AbstractDAO.php",
+		"/D/GitHub/simplavi.com.br/application/DAO/EventoDAO.php",
+		"/D/GitHub/simplavi.com.br/application/site/controllers/AbstractController.php",
+		"/D/GitHub/simplavi.com.br/application/site/controllers/EventosController.php",
+		"/D/GitHub/nascimento.imb.br/models/usuario.php",
+		"/D/GitHub/nascimento.imb.br/controllers/admin/usuarios/editar.php",
 		"/D/GitHub/simplavi.com.br/application/site/controllers/IndexController.php",
 		"/D/GitHub/simplavi.com.br/application/site/controllers/ContatoController.php",
 		"/D/GitHub/simplavi.com.br/application/models/Arquivo.class.php",
 		"/D/GitHub/simplavi.com.br/application/models/Evento.class.php",
-		"/D/GitHub/simplavi.com.br/application/DAO/EventoDAO.php",
 		"/D/GitHub/gitblog-cpbr6/source/_posts/2013-01-29-teste-realizado-na-campus-party.markdown",
 		"/D/GitHub/nascimento.imb.br/models/database.php",
 		"/D/GitHub/nascimento.imb.br/models/imoveis.php",
 		"/D/GitHub/nascimento.imb.br/models/usuarios.php",
-		"/D/GitHub/nascimento.imb.br/models/usuario.php",
 		"/D/GitHub/nascimento.imb.br/controllers/admin/usuarios/inserir.php",
 		"/D/GitHub/nascimento.imb.br/controllers/admin/imoveis.php",
 		"/D/GitHub/nascimento.imb.br/controllers/admin/usuarios.php",
@@ -296,14 +325,12 @@
 		"/D/GitHub/nascimento.imb.br/smarty/templates_c/30ff9e04b2de6f584fd3f311bfc149a3d275f2d4.file.fale-conosco.tpl.php",
 		"/D/GitHub/nascimento.imb.br/views/site/home.tpl",
 		"/C/Users/Giovanni/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/D/GitHub/nascimento.imb.br/views/site/layout.tpl",
 		"/D/GitHub/nascimento.imb.br/views/admin/home.tpl",
 		"/D/GitHub/nascimento.imb.br/www/index.php",
 		"/D/GitHub/nascimento.imb.br/views/admin/layout.tpl",
 		"/D/GitHub/simplavi.com.br/library/Default/DbMySQL.php",
 		"/D/GitHub/simplavi.com.br/library/Default/Application.php",
 		"/D/GitHub/simplavi.com.br/library/Default/Config.php",
-		"/D/GitHub/nascimento.imb.br/index.php",
 		"/D/GitHub/nascimento.imb.br/models/website.php",
 		"/D/GitHub/nascimento.imb.br/controllers/site/layout.php",
 		"/D/GitHub/simplavi.com.br/www/index.php",
@@ -314,7 +341,6 @@
 		"/D/GitHub/simplavi.com.br/library/Default/Registry.php",
 		"/D/GitHub/simplavi.com.br/library/Default/AbstractAutoloader.php",
 		"/D/GitHub/simplavi.com.br/library/Default/SiteAutoloader.php",
-		"/D/GitHub/nascimento.imb.br/controllers/admin/usuarios/editar.php",
 		"/D/GitHub/nascimento.imb.br/views/admin/usuarios/editar.tpl",
 		"/D/GitHub/nascimento.imb.br/controllers/admin/home.php",
 		"/D/GitHub/nascimento.imb.br/views/admin/imoveis/inserir.tpl",
@@ -349,8 +375,6 @@
 		"/D/GitHub/simplavi.com.br/library/Default/Greeting.php",
 		"/D/GitHub/simplavi.com.br/library/Default/DbMySQLi.php",
 		"/D/GitHub/simplavi.com.br/application/DAO/ArquivoDAO.php",
-		"/D/GitHub/simplavi.com.br/application/DAO/AbstractDAO.php",
-		"/D/GitHub/simplavi.com.br/application/models/Usuario.class.php",
 		"/D/GitHub/simplavi.com.br/www/admin/index.php",
 		"/D/GitHub/nascimento.imb.br/www/css/imoveis.css",
 		"/D/GitHub/nascimento.imb.br/www/css/imoveis-a-venda.css",
@@ -498,217 +522,28 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "controllers/admin/usuarios/editar.php",
+					"file": "www/robots.txt",
 					"settings":
 					{
-						"buffer_size": 288,
+						"buffer_size": 60,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5,
-								0
+								60,
+								60
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "models/usuario.php",
-					"settings":
-					{
-						"buffer_size": 1803,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1803,
-								1803
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/D/GitHub/simplavi.com.br/application/site/controllers/EventosController.php",
-					"settings":
-					{
-						"buffer_size": 682,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								682,
-								682
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/D/GitHub/simplavi.com.br/application/site/controllers/AbstractController.php",
-					"settings":
-					{
-						"buffer_size": 798,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								248,
-								248
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/D/GitHub/simplavi.com.br/application/DAO/EventoDAO.php",
-					"settings":
-					{
-						"buffer_size": 3487,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2573,
-								2573
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/D/GitHub/simplavi.com.br/application/DAO/AbstractDAO.php",
-					"settings":
-					{
-						"buffer_size": 471,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5,
-								5
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/D/GitHub/simplavi.com.br/application/models/Item.class.php",
-					"settings":
-					{
-						"buffer_size": 844,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/D/GitHub/simplavi.com.br/application/models/Usuario.class.php",
-					"settings":
-					{
-						"buffer_size": 934,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								238,
-								238
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -750,6 +585,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
 	"replace":
 	{
 		"height": 62.0
